@@ -20,6 +20,7 @@ Clone o repositorio em sua maquina, configure
 `Bundle install `
 
 Inicie o banco de dados e conecte o servidor
+
 `sudo service mongod start`
 
 `rails server`
