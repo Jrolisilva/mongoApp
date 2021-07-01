@@ -1,24 +1,14 @@
-# README
+# Api usando Mongodb
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Ferramentas
 
-Things you may want to cover:
+* Ruby 3.0.1
 
-* Ruby version
+* Rails 6.1.4
 
-* System dependencies
+* MongoDB 2.4
 
-* Configuration
+Foi criado um projeto Ruby on Rails que exibe informações sobre alguns escritores e livros. 
+Para cadastrar essas informações utilizaremos documentos em um  banco de dados MongoDB
+Isso será feito com o auxílio de uma gem muito popular chamada Mongoid.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
